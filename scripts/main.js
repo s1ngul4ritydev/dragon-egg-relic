@@ -6,9 +6,8 @@
 // MECÂNICAS:
 //   1. Portador do Ovo do Dragão recebe Strength II e +5 corações.
 //   2. Ao perder o ovo, os buffs são removidos.
-//   3. Drop manual é bloqueado; ovo é devolvido ao inventário.
-//   4. Na morte, o ovo cai normalmente no chão.
-//   5. Partículas do End (tipo Enderman) flutuam ao redor do portador.
+//   3. Na morte, o ovo cai normalmente no chão.
+//   4. Partículas do End (tipo Enderman) flutuam ao redor do portador.
 // ============================================================
 
 import { world, system } from "@minecraft/server";
