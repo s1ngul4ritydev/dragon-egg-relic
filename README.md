@@ -1,6 +1,6 @@
 # DragonEgg Relic
 
-A Minecraft Bedrock 26.1.2 addon that transforms the Dragon Egg into a unique relic.
+A Minecraft Bedrock 26.20 addon that transforms the Dragon Egg into a unique relic.
 
 Players carrying the Dragon Egg receive powerful bonuses, making it one of the most valuable items in the world. The relic cannot be dropped manually and only changes ownership when its holder dies.
 
