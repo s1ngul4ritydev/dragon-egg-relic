@@ -2,10 +2,10 @@
   "format_version": 2,
   "header": {
     "name": "DragonEggRelic",
-    "description": "Transforma o Ovo do Dragão em uma relíquia especial de SMP com buffs, proteção de drop e mecânica de morte.",
+    "description": "Transforms the Dragon Egg into a special SMP relic with buffs, anti-drop protection, anti-dupe logic, and death transfer mechanics.",
     "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 26, 0]
+    "min_engine_version": [1, 26, 20]
   },
   "modules": [
     {
@@ -19,7 +19,11 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "2.0.0"
+      "version": "2.6.0"
     }
-  ]
+  ],
+  "metadata": {
+    "authors": ["WafflyCatt"],
+    "license": "All Rights Reserved"
+  }
 }
